@@ -1,0 +1,1 @@
+The system can collect information of different Internet financial products from different Internet financial website, comparing their rate of return, making charts to anaylze their interests, and also supports real-time rushing purchase. 
